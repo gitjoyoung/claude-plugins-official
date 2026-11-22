@@ -4446,6 +4446,15 @@
         "sha": "10573bac239b7062a476667eaa574d400335c70e"
       },
       "homepage": "https://github.com/amzn/selling-partner-agentic-toolkit"
+    },
+    {
+      "name": "scan-test",
+      "description": "Scan test",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-for-financial-advisors.git",
+        "sha": "0ceaf1ff51be94415f5e0a8ccae81b5eb20e55b7"
+      }
     }
   ]
 }
